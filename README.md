@@ -61,5 +61,3 @@ This code is implementing a basic sentiment analysis pipeline for restaurant rev
 2. **Model Training**: Consider training a machine learning model (like a Naive Bayes classifier) on the features and labels.
 3. **Evaluation**: Evaluate the model’s performance using metrics like accuracy, precision, recall, and F1 score.
 4. **Handling Larger Datasets**: For larger datasets, consider using more advanced techniques like TF-IDF or word embeddings.
-
-Would you like to proceed with model training or need help with any other aspect of the project?
